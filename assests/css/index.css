@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+}
+
+.hero-section {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.hero-section-quotes {
+  color: white;
+  font-size: 28px;
+}
+
+.our-company {
+  margin-top: 200px;
+  text-align: start;
+}
+
+.orange-text-heading {
+  color: rgb(250, 116, 27);
+}
+
+.white-text {
+  color: white;
+  font-size: 22px;
+}
+
+.white-text-heading {
+  color: white;
+}
+
+.our-company-side2 {
+  background-color: rgb(250, 116, 27);
+}
+
+.black-text {
+  color: black;
+}
+
+.our-products {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.our-products-card-text {
+  text-align: start !important;
+  font-size: 22px;
+}
+
+.charlie-section-quotes {
+  margin-top: 200px;
+  text-align: start;
+}
+
+.registration{
+  margin-top: 200px;
+}
